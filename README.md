@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full Stack web developer with good knowledge of MERN stack <br>I also know programming languages like C++, java and javaScript <br>I also SQL and git<br>I am also a UFT and manual tester 
+I am Full Stack web developer with good knowledge of MERN stack <br>I also know programming languages like C++, java and javaScript <br>I also know SQL and git<br>I am also a UFT and manual tester 
 
 
 # 💻 Tech Stack:
